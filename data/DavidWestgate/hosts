@@ -1,5 +1,5 @@
 #=====================================
-# Hosts contributed by Steven Black
+# Hosts contributed by David Westgate
 0.0.0.0 dianomi.com
 0.0.0.0 careerbuilder.com
 0.0.0.0 sailthru.com
@@ -7,4 +7,12 @@
 0.0.0.0 catchpoint.com
 0.0.0.0 gotowebinar.com
 0.0.0.0 static-bii.businessinsider.com
+0.0.0.0 adchoices.com
+0.0.0.0 adwords.google.com
+0.0.0.0 voip.pinion.gg
+0.0.0.0 ns1.pinion.gg
+0.0.0.0 ns2.pinion.gg
+0.0.0.0 office.pinion.gg
+0.0.0.0 blog.pinion.gg
+0.0.0.0 ns3.pinion.gg
 #=====================================
